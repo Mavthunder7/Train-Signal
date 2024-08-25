@@ -1,5 +1,3 @@
-To format the README properly for GitHub, you need to add appropriate headings and spacing so that it displays correctly. Below is a revised version of the README file:
-
 ---
 
 # Train Signal Simulation in OpenGL
