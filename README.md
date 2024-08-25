@@ -1,6 +1,5 @@
 # Train-Signal
-Train Signal Simulation in OpenGL
-Introduction
+Train Signal Simulation in OpenGL Introduction
 This project is a simulation of a railway crossing using OpenGL, designed to illustrate the concepts and usage of pre-built OpenGL functions. The simulation showcases two connected railway tracks, where train signals control the movement of trains to prevent collisions.
 
 Key Features
